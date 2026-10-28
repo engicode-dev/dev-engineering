@@ -6,6 +6,7 @@
 
 - **[EngineerHelper](https://github.com/engicode-dev/engineer-helper)** — мой настоящий инженерный калькулятор (Python, Tkinter).
   Написан с нуля для быстрого расчета массы, геометрии, допусков и сварных швов. Включает интерфейс и ГОСТ-шрифты.
+- **[TechRoute](https://github.com/engicode-dev/TechRoute)** — система автоматизации технолога (Python, Tkinter, OpenPyXL). Генерирует Маршрутные карты (МК), Операционные карты (ОК) и Спецификации по ГОСТ, считает режимы резания и массу заготовки.
 
 ## 🛠️ Технологии
 - Python (Tkinter, JSON)
